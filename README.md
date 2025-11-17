@@ -2,6 +2,9 @@
 
 This is a Streamlit web application designed to predict a student's mark based on historical academic data. It trains a Random Forest Regression model using the provided Student_Marks.csv data (included directly in the app script).
 
+Link to live demo: 
+https://studentmarkpredictor-injwgtgvvrpixrxpprchnw.streamlit.app/
+
 Features
 
 Auto-Training: The model is automatically loaded and trained using the embedded data upon application launch.
